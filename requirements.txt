@@ -1,4 +1,0 @@
-pyrogram
-tgcrypto
-py-tgcalls
-yt-dlp
